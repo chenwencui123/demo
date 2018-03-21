@@ -390,7 +390,7 @@
 #### 寂小桦
 * :white_check_mark: [小专栏](https://xiaozhuanlan.com/)：专业人士的写作社区 - [更多介绍](https://www.v2ex.com/t/392109)
 
-#### 像素君
+#### 像素君 
 * :white_check_mark: [创造狮导航](http://chuangzaoshi.com)：创意工作者导航
 
 #### wichna
